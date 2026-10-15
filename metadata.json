@@ -1,0 +1,6 @@
+{
+  "name": "Milestone",
+  "description": "Inspiring personal goal tracker with progress gradients, milestones checklist, deadline countdowns, and celebration archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
